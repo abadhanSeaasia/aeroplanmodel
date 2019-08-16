@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: d2d262f7b7df8b5439dbe241019704cd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: numbers_0
+    21300002: numbers_1
+    21300004: numbers_2
+    21300006: numbers_3
+    21300008: numbers_4
+    21300010: numbers_5
+    21300012: numbers_6
+    21300014: numbers_7
+    21300016: numbers_8
+    21300018: numbers_9
+    21300020: numbers_10
+    21300022: numbers_11
+    21300024: numbers_12
+    21300026: numbers_13
+    21300028: numbers_14
+    21300030: numbers_15
+    21300032: numbers_16
+    21300034: numbers_17
+    21300036: numbers_18
+    21300038: numbers_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: numbers_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 523
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 524
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 524
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 523
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 524
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 389
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 389
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 390
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 389
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_9
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 389
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 154
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 155
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 155
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 154
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_14
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 155
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 20
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 20
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 21
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 20
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 20
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
